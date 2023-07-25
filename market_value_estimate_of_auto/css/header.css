@@ -1,0 +1,11 @@
+.exitButton{
+    float:right;
+    text-decoration: none;
+    color: black;
+}
+.exitButton:visited{
+    color: black;
+}
+.exitButton:hover{
+    color: blue;
+}
